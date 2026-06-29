@@ -1,3 +1,13 @@
+---
+title: OrionAI Backend
+emoji: 🤖
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # OrionAI Backend
 
 Welcome to the backend server of **OrionAI**, an AI-powered Mock Interview Platform. It leverages **LangGraph**, **Groq** (primary conversational LLM), **Gemini 2.5 Flash** (evaluation LLM), **LiveKit Cloud**, and **Prisma ORM with Neon PostgreSQL** to deliver a dynamic, voice-driven mock interview experience.
